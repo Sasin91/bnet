@@ -1,8 +1,8 @@
 {
-    "name": "pwnraid/bnet",
+    "name": "sasin91/bnet",
     "description": "Library for Battle.net Web APIs",
     "keywords": ["Battle.net", "Blizzard", "Warcraft", "Starcraft", "Diablo"],
-    "homepage": "https://github.com/pwnraid/bnet",
+    "homepage": "https://github.com/Sasin91/bnet",
     "license": "MIT",
     "authors": [
         {
